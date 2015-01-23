@@ -16,6 +16,7 @@ public class HelloPhil {
      */
     public static void main(String[] args) {
         System.out.println("Hello Phil!");
+        System.out.println("Ajout surprise!");
     }
     
 }
