@@ -15,7 +15,7 @@ public class HelloPhil {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello Phil!");
+        System.out.println("Hello Phil et vive la caféine!");
         System.out.println("Ajout surprise!");
         System.out.println("Bonsoir cher enfant!");
     }
